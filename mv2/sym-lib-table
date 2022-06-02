@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "RP2040")(type "Legacy")(uri "C:/Users/Lenovo/Downloads/RP2040/RP2040.lib")(options "")(descr ""))
+  (lib (name "Sleep-lib")(type "KiCad")(uri "C:/Users/Lenovo/Downloads/RP2040-designguide-main/RP2040-designguide-main/PCB/Libraries/Sleep-lib/Sleep-lib.kicad_sym")(options "")(descr ""))
+)
