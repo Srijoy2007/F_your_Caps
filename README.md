@@ -5,9 +5,7 @@ Bobby-Pad is a 9 switches budget macro-keyboard with a great quality...
     1. PCB :- the pcb is based of RP2040 , the pcb has the basic structure of any RP2040 PCB 
               it contains a USB C recptable support , Along with it it contains a Rotary Encoder 
 	      switch and a 2.3cm OLED. 
-    
     2. FIRMWARE :- Since RP2040 doesen't support QMK so I am builduing a custom FIRMWARE with Rust(will update it soon)
-
     3. CASE & PLATE :- For the Case and plate I am planning for alimunium to give it a weight , the design still under process
 
 # ROAD MAP ->
